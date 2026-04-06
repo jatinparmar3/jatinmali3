@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jatin Mali</h1>
+<h1 align="center">Hi 👋, I'm Jatin Parmar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 I’m currently working on [Frontend Web Projects](https://teamwork.webyant.com/jatin/kanhagirl/)
@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Responsive Design**
 
-- 📫 How to reach me **jatindineshbhaimali@gmail.com**
+- 📫 How to reach me **jatinparmar5775@gmail.com**
 
 - ⚡ Fun fact **I love building beautiful user interfaces**
 
